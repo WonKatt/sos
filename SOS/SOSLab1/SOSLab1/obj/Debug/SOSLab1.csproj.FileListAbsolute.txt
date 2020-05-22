@@ -1,0 +1,6 @@
+D:\RiderProjects\SOSLab1\SOSLab1\bin\Debug\SOSLab1.exe
+D:\RiderProjects\SOSLab1\SOSLab1\bin\Debug\SOSLab1.pdb
+D:\RiderProjects\SOSLab1\SOSLab1\obj\Debug\SOSLab1.csprojAssemblyReference.cache
+D:\RiderProjects\SOSLab1\SOSLab1\obj\Debug\SOSLab1.csproj.CoreCompileInputs.cache
+D:\RiderProjects\SOSLab1\SOSLab1\obj\Debug\SOSLab1.exe
+D:\RiderProjects\SOSLab1\SOSLab1\obj\Debug\SOSLab1.pdb
