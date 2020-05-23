@@ -1,0 +1,10 @@
+D:\RiderProjects\SOS\Lab3Sos\bin\Debug\Lab3Sos.exe.config
+D:\RiderProjects\SOS\Lab3Sos\bin\Debug\Lab3Sos.exe
+D:\RiderProjects\SOS\Lab3Sos\bin\Debug\Lab3Sos.pdb
+D:\RiderProjects\SOS\Lab3Sos\obj\Debug\Lab3Sos.csprojAssemblyReference.cache
+D:\RiderProjects\SOS\Lab3Sos\obj\Debug\Lab3Sos.Properties.Resources.resources
+D:\RiderProjects\SOS\Lab3Sos\obj\Debug\Lab3Sos.csproj.GenerateResource.cache
+D:\RiderProjects\SOS\Lab3Sos\obj\Debug\Lab3Sos.csproj.CoreCompileInputs.cache
+D:\RiderProjects\SOS\Lab3Sos\obj\Debug\Lab3Sos.exe
+D:\RiderProjects\SOS\Lab3Sos\obj\Debug\Lab3Sos.pdb
+D:\RiderProjects\SOS\Lab3Sos\obj\Debug\Lab3Sos.Form1.resources

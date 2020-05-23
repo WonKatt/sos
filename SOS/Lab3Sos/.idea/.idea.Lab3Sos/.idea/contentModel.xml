@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\WonKat\.Rider2019.1\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\WonKat\.Rider2019.1\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\WonKat\.Rider2019.1\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\WonKat\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\WonKat\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Lab3Sos.790703853.00" t="ExcludeRecursive" />
+    <e p="D:\RiderProjects\SOS\Lab3Sos" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Form1.cs" t="Include" />
+      <e p="Form1.Designer.cs" t="Include" />
+      <e p="Lab3Sos.csproj" t="IncludeRecursive" />
+      <e p="Lab3Sos.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
